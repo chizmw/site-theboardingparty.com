@@ -2,7 +2,7 @@
 layout: page
 title: Copper Row Gamers
 exclude: true
-permalink: /groups/copper-row-gamers
+permalink: /groups/copper-row-gamers/
 menufontawesome: fad fad-user-friends
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Part Time Gamers
 exclude: true
-permalink: /groups/part-time-gamers
+permalink: /groups/part-time-gamers/
 menufontawesome: fad fad-user-friends
 ---
 
