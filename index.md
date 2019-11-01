@@ -5,6 +5,6 @@
 layout: home
 ---
 
-## The Boarding Party weclomes you...
+## The Boarding Party welcomes you...
 
-![The Yellow People](/assets/images/yellow_party.jpg)
+![The Yellow People](/assets/images/yellow_party.jpg){: .mainPageLogo}
