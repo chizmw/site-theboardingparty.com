@@ -12,6 +12,21 @@ $link-color:            $off-white;
 
 /* SCSS overrides in assets/main.scss */
 
+.shadow {
+    text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
+                     10px 20px 5px rgba(0,0,0,0.05),
+                    -10px 20px 5px rgba(0,0,0,0.05);
+
+}
+
+.centre {
+    text-align: center;
+}
+
+.large {
+    font-size:          500%;
+}
+
 .mainPageLogo {
     text-align:         center;
 }
