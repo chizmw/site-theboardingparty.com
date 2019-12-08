@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-maps
-
+  - jekyll-target-blank
 
 google_analytics: UA-25425412-17
 

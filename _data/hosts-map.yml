@@ -4,6 +4,9 @@
     marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
     latitude:   51.54823
     longitude:  -0.36868
+  hostid:   chisel
+  bgg:
+    username:   chizcw
 
 - title: "Gianni (Northolt)"
   data_set: "Hosts"
@@ -11,6 +14,9 @@
     marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
     latitude:   51.53834
     longitude:  -0.3714067
+  hostid:   dakkar
+  bgg:
+    username:   dakkar17
 
 - title: "Forsey (Fleet)"
   data_set: "Hosts"
@@ -18,6 +24,9 @@
     marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
     latitude:   51.2814895
     longitude:  -0.8430562
+  hostid:   forsey
+  bgg:
+    username:   theon
 
 - title: "Rich (Streatham)"
   data_set: "Hosts"
@@ -32,6 +41,9 @@
     marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
     latitude:   51.4823585
     longitude:  -0.1688896
+  hostid:   wheeler
+  bgg:
+    username:   wheelerruss
 
 - title: "Liam (Slade Green)"
   data_set: "Hosts"
