@@ -1,0 +1,69 @@
+- title: "Chisel (Northolt)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.54823
+    longitude:  -0.36868
+
+- title: "Gianni (Northolt)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.53834
+    longitude:  -0.3714067
+
+- title: "Forsey (Fleet)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.2814895
+    longitude:  -0.8430562
+
+- title: "Rich (Streatham)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.4211688
+    longitude:  -0.1479271
+
+- title: "Wheeler (Albert Bridge)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.4823585
+    longitude:  -0.1688896
+
+- title: "Liam (Slade Green)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.4653366
+    longitude:   0.185531
+
+- title: "Mel (Haggerston)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.5385029
+    longitude:  -0.0775503
+
+- title: "Federica & Federico (Wandsworth)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.460558
+    longitude:  -0.1997907
+
+- title: "Sam (Battersea)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.464725
+    longitude:  -0.160382
+
+- title: "Kaushal (Grange Hill)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.6133964
+    longitude:   0.0899349
