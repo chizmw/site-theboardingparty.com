@@ -7,6 +7,8 @@ menufontawesome: fad fad-user-friends
 isgroup: true
 ---
 
+{% include link-up.md %}
+
 *Copper Row Gamers* is a work-based, private, gaming group.
 
 The group is hosted outside the office infrastructure to make it simpler to
@@ -63,3 +65,5 @@ The group is hosted as a Google Group:
 If there's no "Join Now" button visible to you there, [please ask Chisel](mailto:chisel@theboardingparty.com) for an invitation.
 
 [crg-tuesday-evening]: /groups/copper-row-gamers/tuesday-evenings/
+
+{% include link-up.md %}

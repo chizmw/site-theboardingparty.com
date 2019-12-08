@@ -7,6 +7,8 @@ menufontawesome: fad fad-user-friends
 isgroup: true
 ---
 
+{% include link-up.md %}
+
 # Summary
 
 This group was created to allow gamers that previously met under the banner of
