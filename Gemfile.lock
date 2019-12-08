@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/patrickfav/jekyll-maps/
+  revision: 75d9e08a707ca48793f99cb700ee7bc5be7b8821
+  branch: feat-jekyll4
+  specs:
+    jekyll-maps (2.3.1)
+      jekyll (>= 3.0, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -75,6 +83,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
+  jekyll-maps!
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

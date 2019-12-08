@@ -33,9 +33,16 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-maps
 
 
 google_analytics: UA-25425412-17
+
+# https://github.com/ayastreb/jekyll-maps
+# https://console.cloud.google.com/apis/credentials?folder=&organizationId=262456766053&project=theboardingparty-com
+maps:
+  google:
+      api_key: AIzaSyBU-xgIPhAd8gIcWfMeVs_t6txMfMPBHLY
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
