@@ -67,3 +67,10 @@
     marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
     latitude:   51.6133964
     longitude:   0.0899349
+
+- title: "Praveena (Sydenham)"
+  data_set: "Hosts"
+  location:
+    marker_icon: http://maps.google.com/mapfiles/kml/pal3/icon48.png
+    latitude:   51.4307984
+    longitude:  -0.0679411
