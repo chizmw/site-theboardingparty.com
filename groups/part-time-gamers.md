@@ -26,4 +26,9 @@ If you don't have contact details for Chisel, it's quite likely that this group 
 For an overview of what to expect as both host and guest please read the
 [Rules of Play<small><i class="fad fa-external-link"></i></small>](/groups/part-time-gamers/rules-of-play/)
 
+# Hosts
+
+For a general idea who the hosts are and where they are base please read the
+[Hosts](/groups/part-time-gamers/hosts/) page.
+
 {% include link-up.md %}
