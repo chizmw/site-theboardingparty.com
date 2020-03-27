@@ -1,4 +1,4 @@
---
+---
 permalink: /.well-known/brave-rewards-verification.txt
 layout:    null
 ---
