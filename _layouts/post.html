@@ -32,9 +32,10 @@ layout: default
 </div>
 
 {% if page.tags.size != 0 %}
+{% assign sorted_tags = page.tags | sort %}
 <div class="post-tags">
 <span>
-  {% for tag in page.tags %}
+  {% for tag in sorted_tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
