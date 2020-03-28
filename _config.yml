@@ -45,6 +45,9 @@ maps:
   google:
       api_key: AIzaSyBU-xgIPhAd8gIcWfMeVs_t6txMfMPBHLY
 
+# https://jekyllrb.com/docs/permalinks/
+permalink: /blog/:year/:month/:day/:title:output_ext
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
