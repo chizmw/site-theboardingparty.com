@@ -27,6 +27,7 @@ twitter_username: PartyBoarding
 socialmedia:
     twitter:        "PartyBoarding"
     github:         "chiselwright/site-theboardingparty.com"
+    discordme:      "theboardingparty"
 
 # Build settings
 markdown: kramdown
