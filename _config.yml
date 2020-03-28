@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-maps
   - jekyll-target-blank
+  - jekyll-sitemap
 
 google_analytics: UA-25425412-17
 
