@@ -18,8 +18,8 @@ email: chisel@theboardingparty.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site for sharing information about gaming, and some of the social
   aspects around the edges.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://theboardingparty.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PartyBoarding
 #github_username:  ""
 #
