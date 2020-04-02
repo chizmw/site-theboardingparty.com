@@ -3,13 +3,13 @@ layout: post
 title:  "Good For Two"
 date:   2020-03-27 03:04:05 +0100
 author: Chisel
-image:  /assets/images/page/werewords.jpg
+image:  /assets/posts/2020-03-27-good_for_two/fog-of-love-main-image.jpg
 categories: [Gaming, Recommendations]
 tags: covid-19 two two-players two-people recommendations pandemic flash-point villagers thunder-and-lightning the-fox-in-the-forest fog-of-love and-then-we-held-hands stop-thief patchwork mr-jack-pocket love-letter z-man-games the-lost-expedition lost-cities patchwork-doodle judge-dredd cursed-earth hit-z-road
 
 ---
 
-<!-- ![](/assets/posts/2020-03-27-good_for_two/pandemic.jpg){: style="text-align: center;"} -->
+![](/assets/posts/2020-03-27-good_for_two/fog-of-love-main-image.jpg){: style="text-align: center; width: 1200px; height: 350px;" class="imagedropshadow" }
 
 Earlier today, I was asked if I could share
 
@@ -30,7 +30,7 @@ to consider adding some co-operative games to your repertoire
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 This one's a timeless classic and seems very thematic at the time of writing.
 
@@ -51,7 +51,7 @@ special abilities in your fight to save the world.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Maybe you'd prefer to test your life-saving skills on a more localised level.
 Why not try your hand at firefighting? Work together trying to save enough
@@ -82,7 +82,7 @@ for two players. Often these will be competetive, so watch out!
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 This is an abstract game where two players co-operate to try to find balance,
 complete objectives, and reach the centre of the board.
@@ -103,7 +103,7 @@ move the game ends and both players lose.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 <em>Fog of Love </em> is a tricky game to describe. Is it a game? Is it
 role-playing? Is it story-telling? We think it's a blend of all three.
@@ -126,7 +126,7 @@ fictional characters.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 This is a small card game where each player is trying to use normal ranked and
 suited cards to win tricks, but also using special powers of the characters
@@ -154,7 +154,7 @@ the forest.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Play a mythical showdown between _Thor_ and _Loki_ in this card game. Players
 build up 4 rows of cards representing their armies and defences on the
@@ -171,7 +171,7 @@ game.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Star Realms if a deck-building game where each player attempts to reduce the
 other player's Authority (score) to zero.
@@ -198,7 +198,7 @@ and
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Another card game, this time you are competing with the other player to try to
 mount the most profitable expeditions to the different sites represented by
@@ -226,7 +226,7 @@ Highest score over three matches wins the game.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Using pieces that resemble a game of Tetris, you are both competing to build
 the most _aesthetic quilt_.
@@ -258,7 +258,7 @@ should definitely invest in some coloured highlighters!
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 On a small grid of nine stree cards your role is to either evade _"capture"_
 as Mr Jack, or to use Holmes, Watson and a dog (!) to eliminate other suspects
@@ -286,7 +286,7 @@ and
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 The game supports two to five players. The game plays really well at all
 player counts, so it's a nice one to have in the collection for when you have
@@ -315,7 +315,7 @@ more, but well worth it.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 This is a logical deduction game for 2-4 players. An invisible suspect has
 committed a crime and it's up to you to track them down based on the sounds
@@ -334,7 +334,7 @@ rewards.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Everyone starts the game with 5 face-down cards, and no knowledge of any cards
 around the table. Before the round starts each player is allowed to look at
@@ -363,7 +363,7 @@ Lowest total score after four rounds wins the game.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Each player starts the game with one card in hand, and on their turn they
 "draw one, play one". When you play (discard) a card you must resolve the
@@ -383,7 +383,7 @@ game.
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 One to four players embark on a road trip along a zombie-infested Route 66.
 Bid resources to determine who's going to get first choice on the encounters
@@ -405,7 +405,7 @@ Currently available at the incredible low price of &pound;10.89 at Amazon!
 {% assign imageurl="/assets/posts/2020-03-27-good_for_two/" |append: zatuname |append: ".jpg" %}
 ### {{name}}
 
-![image]({{imageurl}}){: style="float: left; margin-right:10px;"}
+![image]({{imageurl}}){: style="float: left; margin-right:10px;"}{: class="imagedropshadow" }
 
 Work together controlling a group of explorers working their way through
 perilous environments, making best use of their resources, in an attempt to
