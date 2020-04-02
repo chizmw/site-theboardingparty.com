@@ -4,6 +4,7 @@ title:  "Good For Two"
 date:   2020-03-27 03:04:05 +0100
 author: Chisel
 image:  /assets/posts/2020-03-27-good_for_two/fog-of-love-main-image.jpg
+description: What are some games that work well for two players?
 categories: [Gaming, Recommendations]
 tags: covid-19 two two-players two-people recommendations pandemic flash-point villagers thunder-and-lightning the-fox-in-the-forest fog-of-love and-then-we-held-hands stop-thief patchwork mr-jack-pocket love-letter z-man-games the-lost-expedition lost-cities patchwork-doodle judge-dredd cursed-earth hit-z-road
 
