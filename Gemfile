@@ -16,8 +16,9 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem 'jekyll-target-blank'
+  gem 'jekyll-maps'
   gem 'jekyll-sitemap'
+  gem 'jekyll-target-blank'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -31,4 +32,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # https://github.com/ayastreb/jekyll-maps
-gem 'jekyll-maps', git: 'https://github.com/patrickfav/jekyll-maps/', branch: 'feat-jekyll4'
+#gem 'jekyll-maps', git: 'https://github.com/patrickfav/jekyll-maps/', branch: 'feat-jekyll4'
