@@ -57,6 +57,20 @@ $link-color:            $off-white;
     font-size:  90%;
 }
 
+article > p:nth-child(1) > img {
+    height: 150px;
+    width: auto;
+    object-fit: contain;
+    float:left;
+    margin-right: 10px;
+}
+
+// this stops /blog previews squashing into each other
+// because of the image float
+body > main > div > div > ul > li {
+    clear: both;
+}
+
 // https://www.cvwdesign.com/blog/post.php?s=css3-box-shadow-and-image-hover-effects
 .imagedropshadow {
     padding: 5px;

@@ -20,6 +20,8 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <!-- Your post's summary goes here -->
+        <article>{{ post.excerpt }}</article>
       </li>
       {%- endfor -%}
     </ul>

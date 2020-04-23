@@ -49,6 +49,9 @@ maps:
 # https://jekyllrb.com/docs/permalinks/
 permalink: /blog/:year/:month/:day/:title:output_ext
 
+# https://stackoverflow.com/questions/16422933/how-do-i-use-markdownify-in-jekyll-to-show-an-excerpt-on-the-index
+excerpt_separator: <!--more-->
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -10,7 +10,7 @@ tags: covid-19 two two-players two-people recommendations pandemic flash-point v
 
 ---
 
-![](/assets/posts/2020-03-27-good_for_two/fog-of-love-main-image.jpg){: style="text-align: center; width: 1200px; height: 350px;" class="imagedropshadow" }
+![](/assets/posts/2020-03-27-good_for_two/fog-of-love-main-image.jpg){: style="text-align: center; max-width: 1200px; max-height: 350px;" class="imagedropshadow" }
 
 Earlier today, I was asked if I could share
 
@@ -18,6 +18,9 @@ Earlier today, I was asked if I could share
 
 so I put on my thinking-cap and came up with a few ideas
 
+<!--more-->
+
+{% include link-blog.md %}
 ## Co-Operative Games
 
 If you're not wanting to go head-to-head with the second player you might want
@@ -430,3 +433,5 @@ gameplay, with different themes.
 {% assign zatuname="judge-dredd-the-cursed-earth" %}
 {% assign bgpid="23819" %}
 {% include gameinfo.md bgggamename=name bgggameid=bggid zatuproduct=zatuname bgpricesid=bgpid %}
+
+{% include link-blog.md %}
