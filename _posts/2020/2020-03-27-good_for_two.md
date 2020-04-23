@@ -264,7 +264,7 @@ should definitely invest in some coloured highlighters!
 
 ![image]({{imageurl}}){: class="imagedropshadow thumb-float-left" }
 
-On a small grid of nine stree cards your role is to either evade _"capture"_
+On a small grid of nine street cards your role is to either evade _"capture"_
 as Mr Jack, or to use Holmes, Watson and a dog (!) to eliminate other suspects
 and estblish the real identity of the killer.
 
