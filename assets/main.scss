@@ -77,7 +77,7 @@ article > p:nth-child(1) > img {
 
 // this stops /blog previews squashing into each other
 // because of the image float
-body > main > div > div > ul > li {
+.clearboth {
     clear: both;
 }
 
