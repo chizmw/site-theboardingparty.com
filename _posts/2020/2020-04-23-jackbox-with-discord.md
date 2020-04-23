@@ -18,9 +18,6 @@ to "technology" it's possible to play the game with players all over the place.
 
 <!--more-->
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 {% include link-blog.md %}
 ## What is jackbox.tv?
 
