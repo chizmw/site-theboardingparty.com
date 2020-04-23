@@ -71,6 +71,17 @@ body > main > div > div > ul > li {
     clear: both;
 }
 
+body > main > div > article > div.post-content.e-content > p:nth-child(1) > img {
+    text-align: center;
+    max-width:  1200px;
+    max-height: 350px;
+}
+
+.thumb-float-left {
+    float: left;
+    margin-right:10px;
+}
+
 // https://www.cvwdesign.com/blog/post.php?s=css3-box-shadow-and-image-hover-effects
 .imagedropshadow {
     padding: 5px;
