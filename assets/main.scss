@@ -57,6 +57,11 @@ $link-color:            $off-white;
     font-size:  90%;
 }
 
+span.gameinfolinks > span {
+    text-align:       right;
+    display:          block;
+}
+
 article > p:nth-child(1) > img {
     height: 150px;
     width: auto;
