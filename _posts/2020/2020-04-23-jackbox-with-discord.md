@@ -6,13 +6,13 @@ author: Chisel
 image:  /assets/posts/2020-04-23-jackbox-with-discord/jb3-image.jpg
 description: How to use Discord to play jackbox.tv games
 categories: [Gaming, Getting Started]
-tags: covid-19 discord jackbox.tv remote-gaming
+tags: covid-19 discord jackbox.tv remote-gaming windows
 
 ---
 
 ![]({{page.image}}){: class="imagedropshadow" }
 
-[jackbox.tv](https://www.jackboxgames.com/) is collection of quirky, gameshow
+{% include link-jackbox.md %} is collection of quirky, gameshow
 style, party games. Originally it was intended to be played locally, but thanks
 to "technology" it's possible to play the game with players all over the place.
 
@@ -42,8 +42,8 @@ This is where is can get slightly tricky with the remote players.
 
 You get the easiest steps in this gaming experience:
 
-- make sure you have Discord installed
-  - make sure you've been invited to the appropriate Discord server
+- make sure you have {% include link-discord.md %} installed
+  - make sure you've been invited to the appropriate {% include link-discord.md %} server
   - make sure you've **joined** the server
   - join any channels as directed by the host
 - visit [jackbox.tv](https://jackbox.tv) on your web-enabled device
@@ -73,7 +73,28 @@ Some games are unplayable if you can't hear the audio.
 
 ![image](/assets/posts/2020-04-23-jackbox-with-discord/headphones-radio-microphone-neon-signs-set.jpg){: class="imagedropshadow sectionimage-right" }
 
-There are strange and crazy tools
+There are strange and crazy tools out there that will allow the host to do
+amazing things with the audio on their machine, making the game audio available
+over normal screen-sharing.
+
+A small investigation revealed that you can avoid this extra step by using
+{% include link-discord.md %} as your screen-sharing source via their [Go
+Live](https://support.discordapp.com/hc/en-us/articles/360030714312-Stream-your-game-with-Go-Live-)
+feature (<i class="fab fa-windows"></i> Windows Only)
+
+Once the host has started streaming you can click on their username in the
+voice channel, you’ll see the option to watch the stream.
+
+## ... with player webcams
+
+![image](/assets/posts/2020-04-23-jackbox-with-discord/video-conferencing-concept.jpg){: class="imagedropshadow sectionimage" }
+
+During our mini-testing it looked like participants were also given the option
+of streaming their video/webcam to the session.
+
+This means you can all join the game, and see the loos on other people's faces
+when they see the answers that have been submitted. Often the funniest part of
+the game. <i class="fad fa-laugh-squint"></i>
 
 ## Attributions
 
@@ -83,5 +104,6 @@ Some images require attribution links as part of their terms:
 - <a href="https://www.freepik.com/free-photos-vectors/poster">Poster vector created by teravector - www.freepik.com</a>
 - <a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by katemangostar - www.freepik.com</a>
 - <a href="https://www.freepik.com/free-photos-vectors/technology">Technology vector created by freepik - www.freepik.com</a>
+- <a href="https://www.freepik.com/free-photos-vectors/business">Business vector created by pikisuperstar - www.freepik.com</a>
 
 {% include link-blog.md %}
