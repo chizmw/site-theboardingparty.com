@@ -6,8 +6,6 @@ permalink: /groups/part-time-gamers/rules-of-play/
 menufontawesome: fas fa-dice
 ---
 
-{% include link-up.md %}
-
 > What to expect and how to be a good gamer
 
 ## Event Organisation
@@ -51,5 +49,3 @@ A good schedule for the session is:
 - <i class="fal fa-duck"></i> Short / Medium Games
 
 Again, this is flexible.
-
-{% include link-up.md %}

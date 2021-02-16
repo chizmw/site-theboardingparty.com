@@ -6,8 +6,6 @@ permalink: /groups/
 menufontawesome: fad fa-users
 ---
 
-{% include link-up.md %}
-
 For more information about any of these groups, please follow the relevant link:
 
 <ul>

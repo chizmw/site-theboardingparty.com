@@ -6,15 +6,15 @@ permalink: /groups/part-time-gamers/hosts/
 menufontawesome: fas fa-dice
 ---
 
-{% include link-up.md %}
-
 ## Hosts
 
 It's useful to have an idea of where the hosts are based.
 
 Clearly we can't navigate to the exact address ... there are some scary people on the internet! ;-)
 
+{%  comment %}
 {% google_map no_cluster src="_data/hosts-map.yml" %}
+{%  endcomment %}
 
 ### More Information
 
@@ -33,5 +33,3 @@ Learn more about each host by viewing their details page:
 {% endif %}
 {% endfor %}
 </ul>
-
-{% include link-up.md %}

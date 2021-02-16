@@ -6,8 +6,6 @@ permalink: /groups/copper-row-gamers/tuesday-evenings/
 menufontawesome: fas fa-dice
 ---
 
-{% include link-up.md %}
-
 > What to expect and how to be a good gamer
 
 ### The Plan
@@ -64,5 +62,3 @@ We will aim to pick a game that can be easily learned and enjoyed by those less
 familiar with our wonderful, and crazy, world of board games.
 
 The best place to find us is in our {%- include crg-slack.md -%}.
-
-{% include link-up.md %}
